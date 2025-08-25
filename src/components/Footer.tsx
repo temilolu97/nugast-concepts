@@ -44,8 +44,8 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Contact</h3>
             <div className="space-y-2 text-sm text-gray-300">
-              <p>Phone: +234 906 895 3350</p>
-              <p>Email: shebakky@gmail.com</p>
+              <p>Phone: +2349167599894</p>
+              <p>Email: info@nugastconcepts.com</p>
               <p>Address: No. 8, Rasheed Alana Williams Street, Lekki, Lagos State, Nigeria</p>
             </div>
           </div>
